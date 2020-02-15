@@ -1,0 +1,7 @@
+name: LabyEmotePlayer
+version: 1.0
+author: Summerfeeling
+
+softdepend: [ProtocolLib]
+
+main: de.summerfeeling.labyemoteplayer.LabyEmotePlayer
